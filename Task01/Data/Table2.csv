@@ -1,0 +1,6 @@
+State Process,Delta U (J),Q (J),W (J),Delta T (K)
+A to B (isothermal compression heat removal),0,-10.13,10.13,0
+B to C (isochoric heating),32.93,32.93,0,450
+C to D ( isothermal heat addition),0,21.54,-21.54,0
+D to A (isochoric cooling),-32.93,-32.93,0,-450
+Total,0,11.41,-11.41,0
